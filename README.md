@@ -5,4 +5,4 @@ It also generates XML files from the parsed data form image for inter project co
 
 Sample:
 
-![alt text](https://github.com/parikshitdeshmukh/ML-BoundingBoxes/tree/master/img/sample.jpg)
+![alt text](/img/sample.jpg?raw=true)
